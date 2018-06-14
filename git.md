@@ -249,5 +249,5 @@ filter atrr1 atrr2...
 filter:代表匹配文件的通配符。
 atrr：代表属性。[.text | .eol |.binary]
 ```
-
+[svn教程](https://my.oschina.net/happyBKs/blog/375334)
 [git常用命令](http://ife.baidu.com/note/detail/id/577)
